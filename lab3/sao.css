@@ -1,0 +1,39 @@
+.doan1 {
+    color: red;
+}
+
+.doan2 {
+    color: green;
+}
+
+.doan3 {
+    color: blue;
+}
+
+strong {
+    color: brown;
+}
+
+
+
+
+.doan1 {
+    font-style: italic;
+    color: red;
+}
+.doan2 {
+    font-style: italic;
+    color: green;
+}
+.doan3 {
+    font-style: italic;
+    color: blue;
+}
+.doan4 {
+    font-style: italic;
+    color: red;
+}
+.anh-em {
+    font-weight: bold;
+    color: brown;
+}

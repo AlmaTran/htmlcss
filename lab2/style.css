@@ -1,0 +1,49 @@
+h2 {
+    color: rgb(228, 32, 228); /* Màu chữ cho tiêu đề */
+}
+
+em {
+    font-style: italic; /* In nghiêng nội dung bài thơ */
+    margin-bottom: 10px; /* Khoảng cách giữa các đoạn văn bản */
+}
+
+/* Định dạng cho các từ trong thẻ strong */
+strong {
+    color: rgb(163, 52, 163); /* Màu chữ cho từ tím */
+}
+
+/* Định dạng cho thẻ mark */
+mark {
+    background-color: yellow; /* Màu nền cho từ "Huế" được làm nổi bật */
+    color: purple; /* Màu chữ cho từ "Huế" */
+}
+
+/* Định dạng cho khoảng cách dòng được tạo bởi thẻ br */
+br {
+    margin-bottom: 5px; /* Khoảng cách giữa các dòng */
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    display: block;
+}
+news {
+    display: flex;
+}
+.news {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.news .img {
+    flex: 1; 
+    margin-right: 20px;
+    width: 50px;
+}
+
+.news img {
+    width: 100px; /* Để ảnh tự động điều chỉnh kích thước trong phần ảnh */
+    height: auto;
+}
